@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img{
+    background-image: url(WhatsApp\ Image\ 2025-11-26\ at\ 11.33.24_611761aa.jpg);
+    background-size: cover;
+    width: ;
+}
+
+.header{
+  
+  display: flex;
+  justify-content: space-between;
+  /* gap  200px */
+  margin: 20px;
+ 
+   
+
+
+}
+ .header ul{
+    display: flex;
+   justify-content: space-between;
+   gap: 40px;
+   list-style: none;
+ font-size: 1.4em;
+ margin-top: 10px;
+ margin-left: 100px;
+ /* font-weight: 600; */
+}
+
+.header h1{
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.btn{
+    margin-right: 20px;
+    width: 150px;
+    background-color: blue;
+    border: none;
+    border-radius: 20px;
+    gap: 20px;
+
+}
+
